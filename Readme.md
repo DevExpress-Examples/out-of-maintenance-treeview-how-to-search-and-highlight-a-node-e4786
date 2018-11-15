@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DXWebApplication1/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DXWebApplication1/Controllers/HomeController.vb))
+* **[Index.cshtml](./CS/DXWebApplication1/Views/Home/Index.cshtml)**
+<!-- default file list end -->
 # TreeView - How to search and highlight a node
 
 
