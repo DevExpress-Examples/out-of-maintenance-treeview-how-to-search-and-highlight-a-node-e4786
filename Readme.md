@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # TreeView - How to search and highlight a node
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4786)**
+**[[Run Online]](https://codecentral.devexpress.com/e4786/)**
 <!-- run online end -->
 
 
